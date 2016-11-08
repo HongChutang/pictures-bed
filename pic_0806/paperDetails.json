@@ -16,15 +16,15 @@
 [
 	{
 		"time": "2010.01.01",
-		"value": 5
+		"keyValue": 5
 	},
 	{
 		"time": "2010.02.01",
-		"value": 6
+		"keyValue": 6
 	},
 	{
 		"time": "2010.03.01",
-		"value": 7
+		"keyValue": 7
 	}
 ]
 ]
