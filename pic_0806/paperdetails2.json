@@ -1,0 +1,54 @@
+[
+[
+	{
+		"infoName": "info1",
+		"value": 100
+	},
+	{
+		"infoName": "info2",
+		"value": 200
+	},
+	{
+		"infoName": "info3",
+		"value": 300
+	},
+  {
+		"infoName": "info4",
+		"value": 400
+	},
+	{
+		"infoName": "info5",
+		"value": 500
+	},
+	{
+		"infoName": "info6",
+		"value": 600
+	}
+],
+[
+	{
+		"time": "2010.01.01",
+		"keyValue": 5
+	},
+	{
+		"time": "2010.02.01",
+		"keyValue": 6
+	},
+	{
+		"time": "2010.03.01",
+		"keyValue": 7
+	},
+  {
+		"time": "2010.04.01",
+		"keyValue": 8
+	},
+	{
+		"time": "2010.05.01",
+		"keyValue": 9
+	},
+	{
+		"time": "2010.06.01",
+		"keyValue": 9
+	}
+]
+]
