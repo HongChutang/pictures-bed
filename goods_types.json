@@ -1,5 +1,4 @@
 [
-  [
     {
       "imageUrl": "https://images-cn.ssl-images-amazon.com/images/I/51rLFCCHuDL._SX355_BO1,204,203,200_.jpg",
       "typeName": "文学长廊11"
@@ -11,9 +10,7 @@
     {
       "imageUrl": "https://images-cn.ssl-images-amazon.com/images/I/51rLFCCHuDL._SX355_BO1,204,203,200_.jpg",
       "typeName": "文学长廊13"
-    }
-  ],
-  [
+    },
     {
       "imageUrl": "https://images-cn.ssl-images-amazon.com/images/I/51rLFCCHuDL._SX355_BO1,204,203,200_.jpg",
       "typeName": "文学长廊21"
@@ -26,5 +23,4 @@
       "imageUrl": "https://images-cn.ssl-images-amazon.com/images/I/51rLFCCHuDL._SX355_BO1,204,203,200_.jpg",
       "typeName": "文学长廊23"
     }
-  ]
 ]
