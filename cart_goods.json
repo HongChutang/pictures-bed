@@ -1,0 +1,52 @@
+[
+	{
+		"imageUrl": "https://images-cn.ssl-images-amazon.com/images/I/51rLFCCHuDL._SX355_BO1,204,203,200_.jpg",
+		"goodsName": "天才在左，疯子在右",
+		"type": "文学",
+		"price": 99,
+		"stock": 10,
+		"author": "路遥",
+		"description": "很好地一本书 很好地一本书 很好地一本书",
+		"amount": 1
+	},
+		{
+		"imageUrl": "https://images-cn.ssl-images-amazon.com/images/I/51rLFCCHuDL._SX355_BO1,204,203,200_.jpg",
+		"goodsName": "天才在左，疯子在右",
+		"type": "文学",
+		"price": 99,
+		"stock": 10,
+		"author": "路遥",
+		"description": "很好地一本书 很好地一本书 很好地一本书",
+		"amount": 2
+	},
+		{
+		"imageUrl": "https://images-cn.ssl-images-amazon.com/images/I/51rLFCCHuDL._SX355_BO1,204,203,200_.jpg",
+		"goodsName": "天才在左，疯子在右",
+		"type": "文学",
+		"price": 99,
+		"stock": 10,
+		"author": "路遥",
+		"description": "很好地一本书 很好地一本书 很好地一本书",
+		"amount": 3
+	},
+		{
+		"imageUrl": "https://images-cn.ssl-images-amazon.com/images/I/51rLFCCHuDL._SX355_BO1,204,203,200_.jpg",
+		"goodsName": "天才在左，疯子在右",
+		"type": "文学",
+		"price": 99,
+		"stock": 10,
+		"author": "路遥",
+		"description": "很好地一本书 很好地一本书 很好地一本书",
+		"amount": 4
+	},
+		{
+		"imageUrl": "https://images-cn.ssl-images-amazon.com/images/I/51rLFCCHuDL._SX355_BO1,204,203,200_.jpg",
+		"goodsName": "天才在左，疯子在右",
+		"type": "文学",
+		"price": 99,
+		"stock": 10,
+		"author": "路遥",
+		"description": "很好地一本书 很好地一本书 很好地一本书",
+		"amount": 5
+	}
+]
